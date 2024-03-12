@@ -1,0 +1,27 @@
+{
+  "name": "shereesumup",
+  "version": "1.0.0",
+  "description": "SumItUp succinctly sums up values. It provides quick and concise solutions for sum calculations, ensuring efficiency and accuracy in your operations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "are-arrays": "^1.0.0",
+    "are-objects": "^1.0.0",
+    "shereesumup": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ShereeAlabanza/shereesumup.git"
+  },
+  "homepage": "https://github.com/ShereeAlabanza/shereesumup/blob/main/README.md",
+  "keywords": [
+    "sum",
+    "add",
+    "tong",
+    "cong"
+  ],
+  "author": "ShereeAlabanza",
+  "license": "MIT"
+}
